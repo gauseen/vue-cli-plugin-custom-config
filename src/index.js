@@ -17,6 +17,5 @@ module.exports = (api, projectOptions) => {
 				.options({
 					symbolId: 'icon-[name]',
 				})
-		// 通过 webpack-chain 修改 webpack 配置
 	})
 }
