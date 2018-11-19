@@ -1,8 +1,8 @@
 {
   "name": "vue-cli-plugin-custom-config",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "vue cli 3.x 常用配置",
-  "main": "./src/index.js",
+  "main": "index.js",
   "author": "gauseen",
   "license": "MIT",
   "dependencies": {
