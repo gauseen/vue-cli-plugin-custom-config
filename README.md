@@ -1,11 +1,12 @@
-## vue-cli-plugin-custom-config 自定义配置项
-
+## vue-cli-plugin-custom-config
+> 基于 vue-cli 3.x
 ---------------------------------------------------------
 
-### 一、svg-icon 组件，开箱即用
+### 一、svg-icon 组件，开箱即用 icon
+> 将 `src/icons/svg` 文件夹下的单个 `*.svg` 文件，封装成 `vue` 开箱即用的组件，使用方式如下：
 #### 安装插件
 ```sh
-vue add custom-config # 安装插件
+vue add custom-config # 安装插件并调用
 ```
 
 #### 引入
